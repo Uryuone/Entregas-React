@@ -12,3 +12,12 @@ Este proyecto es un ecommerce de multidepartamental, el mismo te permite ver el 
 
 `react` `firebase` `react-router-dom`
 # entregasreact
+
+## dejo env en caso de requerir para probar funcionalidad
+REACT_APP_FIREBASE_API_KEY=AIzaSyBIlxdtdDQCurLwg5v90rpUMAkQvErOpxY
+REACT_APP_FIREBASE_AUTH_DOMAIN=ecommerce-react-b6527.firebaseapp.com
+REACT_APP_FIREBASE_PROJECT_ID=ecommerce-react-b6527
+REACT_APP_FIREBASE_STORAGE_BUCKET=ecommerce-react-b6527.appspot.com
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=595810235630
+REACT_APP_FIREBASE_APP_ID=1:595810235630:web:da403041f1e05989bfafff
+
